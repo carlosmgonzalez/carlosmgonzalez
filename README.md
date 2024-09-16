@@ -40,9 +40,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/carlosmgonzalez"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="carlosmgonzalez" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlomgonzalez&show_icons=true&locale=en&layout=compact" alt="carlomgonzalez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlomgonzalez&show_icons=true&locale=en" alt="carlomgonzalez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlomgonzalez&" alt="carlomgonzalez" /></p>
