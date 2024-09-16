@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlomgonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="carlomgonzalez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlomgonzalez" alt="carlomgonzalez" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gcarlosmario1" target="blank"><img src="https://img.shields.io/twitter/follow/gcarlosmario1?logo=twitter&style=for-the-badge" alt="gcarlosmario1" /></a> </p>
 
 - 🔭 I’m currently working on **Kotflix: Movie app made with jetpack compose and kotlin**
