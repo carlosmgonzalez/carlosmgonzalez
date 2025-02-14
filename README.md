@@ -1,5 +1,5 @@
-<img src="https://res.cloudinary.com/difikt7so/image/upload/v1726520977/github/idvsljtymsqjytkwwul5.gif"
-    style="width: 100%; justify-content: center;" />
+<!-- <img src="https://res.cloudinary.com/difikt7so/image/upload/v1726520977/github/idvsljtymsqjytkwwul5.gif"
+    style="width: 100%; justify-content: center;" /> -->
 
 <h1 align="center">Hi 👋, I'm Carlos Mario Gonzalez Sarmiento</h1>
 <h3 align="center">Mid-level Full Stack Web Developer with experience in React Native and currently learning Android development with Jetpack Compose and Kotlin.</h3>
