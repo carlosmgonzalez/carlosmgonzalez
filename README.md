@@ -2,7 +2,7 @@
     style="width: 100%; justify-content: center;" /> -->
 
 <h1 align="center">Hi 👋, I'm Carlos Mario Gonzalez Sarmiento</h1>
-<h3 align="center">Mid-level Full Stack Web Developer with experience in React Native and currently learning Android development with Jetpack Compose and Kotlin.</h3>
+<h3 align="center">Mid-level Full Stack Web Developer with experience in React Native and Android development with Jetpack Compose.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/difikt7so/image/upload/v1726522130/github/azredjnskzrbs7cvpuun.webp">
 
@@ -11,17 +11,15 @@
 <p align="left"> <a href="https://twitter.com/gcarlosmario1" target="blank"><img src="https://img.shields.io/twitter/follow/gcarlosmario1?logo=twitter&style=for-the-badge" alt="gcarlosmario1" /></a> </p>
 
 
-- 🔭 I’m currently working on **Kotflix: Movie app made with jetpack compose and kotlin**
+<!-- - 🔭 I’m currently working on **Kotflix: Movie app made with jetpack compose and kotlin** -->
 
-- 🌱 I’m currently learning **Jetpack compose with Kotlin**
+- 🌱 Now I am improving my knowledge and skills in **React Native**
 
-- 👯 I’m looking to collaborate on **Adroid projects with jetpack compose**
+- 👯 I’m looking to collaborate on **web and mobile projects**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/carlosmgonzalez/carlosmgonzalez)
 
-- 📝 I regularly write articles on [https://medium.com/@carlosmgonzalez1998](https://medium.com/@carlosmgonzalez1998)
-
-- 💬 Ask me about **next, node,react native and jetpack compose**
+- 💬 Ask me about **next, node, react native and jetpack compose**
 
 - 📫 How to reach me **carlosmgonzalez1998@gmail.com**
 
@@ -36,7 +34,7 @@
     <a href="https://twitter.com/gcarlosmario1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gcarlosmario1" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/carlosmgonzalez1998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosmgonzalez1998" height="30" width="40" /></a>
     <a href="https://instagram.com/carlosmgonzalez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlosmgonzalez_" height="30" width="40" /></a>
-    <a href="https://medium.com/@carlosmgonzalez1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@carlosmgonzalez1998" height="30" width="40" /></a>
+    <!-- <a href="https://medium.com/@carlosmgonzalez1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@carlosmgonzalez1998" height="30" width="40" /></a> -->
     <a href="https://codeforces.com/profile/carlosmgonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="carlosmgonzalez" height="30" width="40" /></a>
     <a href="https://discordapp.com/users/carlosmgonzalez#7093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="carlosmgonzalez" height="30" width="40" /></a>
     </p>
