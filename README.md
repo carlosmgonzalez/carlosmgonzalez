@@ -2,7 +2,7 @@
     style="width: 100%; justify-content: center;" /> -->
 
 <h1 align="center">Hi 👋, I'm Carlos Mario Gonzalez Sarmiento</h1>
-<h3 align="center">Full Stack Web Developer with experience in React, React Native and Nestjs.</h3>
+<h3 align="center">Full Stack Web and Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlomgonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="carlomgonzalez" /> </p>
 
@@ -12,6 +12,8 @@
 - I’m looking to collaborate on **web and mobile projects**
 
 - How to reach me **carlosmgonzalez1998@gmail.com**
+
+- My website <a href="https://www.carlosmgonzalez.dev" target="blank">https://www.carlosmgonzalez.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,13 +27,17 @@
 <p align="left">
     <a href="https://nestjs.com/" target="blank"><img align="center" src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" height="40" width="40" /></a>
     <span style={{width: 40}}/>
+    <a href="https://fastapi.tiangolo.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" height="40" width="40" /></a>
+    <span style={{width: 40}}/>
     <a href="https://expo.dev" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:512/1*3o8TOSojT64ChGpjop0USA.png" alt="expo-react-native" height="40" width="90" /></a>
     <span style={{width: 40}}/>
-    <a href="https://reactnative.dev/" target="blank"><img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="expo-react-native" height="40" width="40" /></a>
+    <a href="https://reactnative.dev/" target="blank"><img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="react-native" height="40" width="40" /></a>
     <span style={{width: 40}}/>
-    <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="postgres" height="40" width="40" /></a>
+    <a href="https://nextjs.org/" target="blank"><img align="center" src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="40" width="40" /></a>
     <span style={{width: 40}}/>
-    <a href="https://www.mongodb.com/ " target="blank"><img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="expo-react-native" height="40" width="40" /></a>
+    <a href="https://www.postgresql.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="postgres" height="40" width="40" /></a>
+    <span style={{width: 40}}/>
+    <a href="https://www.mongodb.com/ " target="blank"><img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" height="40" width="40" /></a>
 </p>
 
 <div style={{heigth: 40}}/>
