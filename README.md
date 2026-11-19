@@ -1,46 +1,26 @@
-<!-- <img src="https://res.cloudinary.com/difikt7so/image/upload/v1726520977/github/idvsljtymsqjytkwwul5.gif"
-    style="width: 100%; justify-content: center;" /> -->
+# Hi, I'm Carlos Mario Gonzalez 👋
 
-<h1 align="center">Hi 👋, I'm Carlos Mario Gonzalez Sarmiento</h1>
-<h3 align="center">Full Stack Web and Mobile Developer</h3>
+**Software Developer · Tech Lead at Nacer Digital** · Buenos Aires, Argentina
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlomgonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="carlomgonzalez" /> </p>
+I build software products end to end, from internal tools for companies to MVPs for founders turning an idea into a real product. I lead the technical side of several client projects at once and coordinate the developers working on them.
 
+I use AI tools as a core part of how I work, to design, build and ship faster without giving up quality.
 
-<!-- - 🔭 I’m currently working on **Kotflix: Movie app made with jetpack compose and kotlin** -->
+## What I do
 
-- I’m looking to collaborate on **web and mobile projects**
+- **Lead projects:** turn client requirements into a technical plan, split the work and keep delivery on track.
+- **Manage teams:** coordinate several developers across parallel projects, review their work and unblock them.
+- **Build:** backend, web and mobile, picking the right stack for each product.
+- **Work with AI:** use AI tools in day-to-day development, and build LLM-powered features such as RAG and agents.
 
-- How to reach me **carlosmgonzalez1998@gmail.com**
+## Currently working on
 
-- My website <a href="https://www.carlosmgonzalez.dev" target="blank">https://www.carlosmgonzalez.dev</a>
+- 🤖 **[micro-bot](https://microbot.semantico.xyz):** an AI assistant with persistent chat, web and native iOS (SwiftUI) clients. It connects to your tools through MCP (Gmail, ClickUp, and more), reads WhatsApp groups and runs scheduled missions on your behalf. Built with TypeScript, Express and PostgreSQL.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://x.com/carlosmariog98_" target="blank"><img align="center" src="https://i.pinimg.com/736x/dc/79/74/dc79740bbf2ddaa0d433238bac49a28f.jpg" alt="carlosmariog98_" height="40" width="40" /></a>
-    <a href="https://linkedin.com/in/carlosmgonzalez1998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosmgonzalez1998" height="30" width="40" /></a>
-    <a href="https://discordapp.com/users/carlosmgonzalez#7093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="carlosmgonzalez" height="30" width="40" /></a>
-</p>
+## Tech stack
 
-<h3 align="left">Languages and Tools:</h3>
+[![Tech stack](https://skillicons.dev/icons?i=ts,python,nestjs,fastapi,nextjs,react,postgres,mongodb,docker,aws)](https://skillicons.dev)
 
-<p align="left">
-    <a href="https://nestjs.com/" target="blank"><img align="center" src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" height="40" width="40" /></a>
-    <span style={{width: 40}}/>
-    <a href="https://fastapi.tiangolo.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" height="40" width="40" /></a>
-    <span style={{width: 40}}/>
-    <a href="https://expo.dev" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:512/1*3o8TOSojT64ChGpjop0USA.png" alt="expo-react-native" height="40" width="90" /></a>
-    <span style={{width: 40}}/>
-    <a href="https://reactnative.dev/" target="blank"><img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="react-native" height="40" width="40" /></a>
-    <span style={{width: 40}}/>
-    <a href="https://nextjs.org/" target="blank"><img align="center" src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="40" width="40" /></a>
-    <span style={{width: 40}}/>
-    <a href="https://www.postgresql.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="postgres" height="40" width="40" /></a>
-    <span style={{width: 40}}/>
-    <a href="https://www.mongodb.com/ " target="blank"><img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" height="40" width="40" /></a>
-</p>
+## Connect
 
-<div style={{heigth: 40}}/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosmgonzalez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="carlosmgonzalez" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmgonzalez&show_icons=true&locale=en&theme=tokyonight" alt="carlosmgonzalez" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosmgonzalez1998/)
